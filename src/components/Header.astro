@@ -1,6 +1,8 @@
 ---
 import Link from "./HeaderLink.astro";
 import "../styles/hamburgers.css";
+import { Image } from "astro:assets";
+import logo from "../assets/logo.png";
 ---
 
 <header>
@@ -8,7 +10,11 @@ import "../styles/hamburgers.css";
     class="flex container mx-auto md:p-10 px-4 py-6 items-center justify-between"
   >
     <a class="flex items-center gap-2" href="/">
-      <p class="font-kablamo text-ppink text-4xl md:text-5xl">H</p>
+      <Image 
+        src={logo} 
+        alt="HadithTech Logo" 
+        class="h-16 md:h-20 w-auto"
+      />
       <p class="pt-2 md:text-lg font-semibold flex">
         <span class="hidden md:block">Hadith</span> Tech
       </p>
