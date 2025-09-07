@@ -1,41 +1,49 @@
 ---
 const today = new Date();
 import { Icon } from "astro-icon/components";
+import { Image } from "astro:assets";
+import logo from "../assets/logo.png";
 ---
 
 <footer
   class="flex flex-col items-center container mx-auto p-10 text-center gap-10 pb-40"
 >
-  &copy; {today.getFullYear()} Your name here. All rights reserved.
+  <div class="flex items-center gap-4">
+    <Image 
+      src={logo} 
+      alt="HadithTech Logo" 
+      class="h-12 w-auto"
+    />
+    <span>&copy; {today.getFullYear()} HadithTech. All rights reserved.</span>
+  </div>
   <div class="flex items-center gap-6 text-5xl">
     <a
-      href="https://jramma.com"
+      href="https://hadithtech.com/"
       target="_blank"
+      rel="noopener noreferrer"
       class="py-1 pl-3 rounded-md border-1 border-black bg-ppink shadow-card hover:shadow-hover transition"
     >
       <Icon name="web" />
     </a>
     <a
-      href="https://github.com/jramma"
+      href="https://github.com/hadithtech"
       target="_blank"
+      rel="noopener noreferrer"
       class="border-1 p-1 border-black rounded-full bg-pblue shadow-card hover:shadow-hover transition"
     >
       <Icon name="github" />
     </a>
     <a
-      href="https://www.linkedin.com/in/jramma/"
+      href="https://www.linkedin.com/company/hadith-tech/"
       target="_blank"
+      rel="noopener noreferrer"
       class="border-1 p-1 border-black rounded-full bg-pgreen shadow-card hover:shadow-hover transition"
     >
       <Icon name="linkedin" />
     </a>
   </div>
-  <a
-    href="https://buymeacoffee.com/jramma"
-    target="_blank"
-    rel="noopener noreferrer"
-    class="bg-yellow-400 hover:bg-yellow-300 text-black font-bold py-2 px-6 rounded-xl shadow-md flex items-center gap-2 transition duration-200"
-  >
-    ☕ Invítame a un café
-  </a>
+  <div class="text-center">
+    <p class="text-gray-600">Join our tech community in Istanbul</p>
+    <p class="text-sm text-gray-500 mt-2">Connect • Learn • Build</p>
+  </div>
 </footer>
