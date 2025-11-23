@@ -1,246 +1,105 @@
 ---
-title: "Markdown example"
-description:
-  'Foto de <a class="underline" href="https://unsplash.com/es/@adrigeo_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Adrianna Geo</a> en <a href="https://unsplash.com/es/fotos/una-pintura-en-el-techo-de-un-edificio-1rBg5YSi00c?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash" class="underline">Unsplash</a>
-  '
+title: "Hacktoberfest Mini Hackathon 2025"
+description: "A one-day celebration of open source, creativity, and kindness. A 9-hour journey of learning, coding, collaboration, and community spirit."
+pubDate: "2025-10-18"
+tags: ["hackathon", "open-source", "community", "hacktoberfest", "event"]
+heroImage: "/src/assets/hero.png"
 icon: "1"
-pubDate: "Jul 08 2022"
-heroImage: "/src/assets/adriana.jpg"
 ---
 
-This example is from https://markdown-it.github.io/
+# 💻🚀🌍🤝
 
----
+# **Hacktoberfest Mini Hackathon 2025**
 
-**Advertisement :)**
+### _A One-Day Celebration of Open Source, Creativity & Kindness 🤝_
 
-- **[pica](https://nodeca.github.io/pica/demo/)** - high quality and fast image
-  resize in browser.
-- **[babelfish](https://github.com/nodeca/babelfish/)** - developer friendly
-  i18n with plurals support and easy syntax.
+On **October 18, 2025**, we came together for a joyful **9-hour mini hackathon** dedicated to open source — a day filled with creativity, collaboration, learning, and the spirit of giving back. Whether someone wrote their **first-ever pull request** or their **100th**, every contribution added a spark to this unforgettable experience. 🌷
 
-You will like those projects!
+Hosted at **Fatih Sultan Mehmet University**, the event brought together passionate learners, supportive mentors, and curious newcomers who all shared one mission:
+
+> **Get into open source — and have fun doing it!** ✨
 
 ---
 
-# h1 Heading 8-)
+## 🌼 A Day Filled With Learning & Inspiration
 
-## h2 Heading
+From morning coffee to the final wrap-up, the day was designed to help everyone learn something new and get hands-on experience with open source.
 
-### h3 Heading
+### 🕘 **09:00 AM — Check-in & Morning Coffee ☕**
 
-#### h4 Heading
+A warm welcome, good vibes, and delicious breakfast to start the day.
 
-##### h5 Heading
+### 💬 **10:00 AM — Intro to Hacktoberfest + Meet & Greet 🤝**
 
-###### h6 Heading
+Participants introduced themselves, shared their interests, and learned what Hacktoberfest is all about.
 
-## Horizontal Rules
+### 🧠 **11:15 AM — Showcase & Live Demo**
+
+A practical, step-by-step walkthrough on how to make contributions — perfect for beginners.
+
+### 🍴 **12:00 PM — Lunch Break**
+
+Fuel, fun, and networking… plus a bit of debugging chat 😋
+
+### 💻 **01:00 PM — Contribution Time**
+
+The heart of the event — mentors guided participants while they opened real pull requests across multiple repositories.
+
+### 🎉 **04:30 PM — Wrap-Up, Wins & Celebration**
+
+We ended with smiles, shared success stories, and gratitude for everyone’s kindness and effort.
 
 ---
 
----
+## 💫 Hackathon Highlights
+
+Our community’s energy made the numbers shine:
+
+- 🌟 **115 Applicants**
+- 🧑‍💻 **70 Participants**
+- 📂 **4 Repositories Contributed**
+- ✨ **22 Pull Requests Opened**
+
+Every PR wasn’t just a commit — it was a contribution to a global culture of collaboration and kindness.
 
 ---
 
-## Typographic replacements
+## 🌟 Leaderboard of Contributors
 
-Enable typographer option to see result.
+Celebrating the amazing participants who made this hackathon shine 💖
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+| Emoji | Name                | GitHub                |
+| ----- | ------------------- | --------------------- |
+| 🚀    | Abdulselam Muhammed | `abdulselam-muhammed` |
+| 💎    | Abdelrahman Elmorsi | `abduelmorsi`         |
+| 🌟    | Abdelrahman Sayed   | `DevAbdelrahmanSayed` |
+| 🎉    | Ahmed Atiah         | `ahmed-atiah`         |
+| 🏖️    | Ahmad Shamsddin     | `ahmedshamsddin`      |
+| 🚀    | Dima Alahdab        | `Dimaalahdab`         |
+| 🎯    | Hamza Khouli        | `HamzaKholy`          |
+| 🎵    | Layan Anes          | `layananes`           |
+| 🎨    | Motasem Yildiz      | `MotasemYi`           |
+| 🎈    | Nabil Hassan        | `Nabilhassan12345`    |
+| 🌟    | Nasser Hussein      | `nhussein2026`        |
+| 🚀    | Roaa Alsham         | `RoaaAlsham`          |
 
-test.. test... test..... test?..... test!....
+**➡️ View Full Leaderboard**
 
-!!!!!! ???? ,, -- ---
+---
 
-"Smartypants, double quotes" and 'single quotes'
+## 💖 Thank You for Making Magic
 
-## Emphasis
+Hacktoberfest Mini Hackathon 2025 wasn’t just a coding event — it was a celebration of:
 
-**This is bold text**
+- ✨ Curiosity
+- ✨ Kindness
+- ✨ Community spirit
+- ✨ Creativity
 
-**This is bold text**
+Thank you for sharing your code, your ideas, and your heart with this community. Together, we built more than software — we built connections.
 
-_This is italic text_
+> **“Keep contributing. Keep creating. Keep being kind.”** 🌷
 
-_This is italic text_
+---
 
-~~Strikethrough~~
-
-## Blockquotes
-
-> Blockquotes can also be nested...
->
-> > ...by using additional greater-than signs right next to each other...
-> >
-> > > ...or with spaces between arrows.
-
-## Lists
-
-Unordered
-
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
-    * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-4. You can use sequential numbers...
-5. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-```js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :cry: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-: Definition 1
-with lazy continuation.
-
-Term 2 with _inline markup_
-
-: Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-~ Definition 1
-
-Term 2
-~ Definition 2a
-~ Definition 2b
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-\*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-_here be dragons_
-:::
+### ✨ Built with love for Hacktoberfest 2025 ✨
