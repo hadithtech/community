@@ -6,11 +6,11 @@ import tailwind from "@astrojs/tailwind";
 
 import icon from "astro-icon";
 
-import vercel from "@astrojs/vercel";
+import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
   output: 'server',
   integrations: [mdx(), sitemap(), tailwind(), icon()],
-  adapter: vercel(),
+  adapter: netlify(),
 });
