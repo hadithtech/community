@@ -8,14 +8,7 @@ import logo from "../assets/logo.png";
 <footer
   class="flex flex-col items-center container mx-auto p-10 text-center gap-10 pb-40"
 >
-  <div class="flex items-center gap-4">
-    <Image 
-      src={logo} 
-      alt="HadithTech Logo" 
-      class="h-12 w-auto"
-    />
-    <span>&copy; {today.getFullYear()} HadithTech. All rights reserved.</span>
-  </div>
+
   <div class="flex items-center gap-6 text-5xl">
     <a
       href="https://hadithtech.com/"
@@ -45,5 +38,13 @@ import logo from "../assets/logo.png";
   <div class="text-center">
     <p class="text-gray-600">Join our tech community in Istanbul</p>
     <p class="text-sm text-gray-500 mt-2">Connect • Learn • Build</p>
+  </div>
+  <div class="flex items-center gap-4">
+    <Image 
+      src={logo} 
+      alt="HadithTech Logo" 
+      class="h-12 w-auto"
+    />
+    <span>&copy; {today.getFullYear()} HadithTech. All rights reserved.</span>
   </div>
 </footer>
